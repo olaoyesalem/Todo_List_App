@@ -1,4 +1,4 @@
-# TOD LIST
+# TODO LIST
 
 This is my first React project. A functional To-do List bootsrapped with React.
 
