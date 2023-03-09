@@ -4,7 +4,7 @@ This is my first React project. A functional To-do List bootsrapped with React.
 
 ## Available Scripts
 
-To start this project, run:
+To start this project, run :
 ### `npm start`
 
 Runs the app in the development mode.\
